@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.idea/
+.project
+*.pyc
+*.pyo
+db.sqlite3
+django_demo*.iml
+*.pid
